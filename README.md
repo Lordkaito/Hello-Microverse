@@ -1,19 +1,47 @@
-Hello-Microverse
-===============
-Languages used: HtML5 and CSS3.
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Technologies used: linters to check code quality.
+# Project Name
 
-Live demo:
+Hello Microverse!
 
-Not demo available yet.
+![screenshot](./app_screenshot.png)
 
-Prerequisites:
+Additional description about the project and its features.
 
-Don't need to know HTML5 and CSS3 to use this.
+## Built With
 
-Authors:
+- HTML5 and CSS3
+- No framework, just HTML and CSS
+- Technologies used: linters to check code style and code review
 
-Isaí Céspedes
+## Live Demo
+
+No live demo yet.
 
 
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+Dont need any prerequisites to get started.
+
+👤 **Author1**
+
+- GitHub: [@Lordkaito](https://github.com/lordkaito)
+- Twitter: [@Lordkaito_](https://twitter.com/Lordkaito_)
+- LinkedIn: [Isai Cespedes](https://www.linkedin.com/in/isai-c%C3%A9spedes-4164a51b4/)
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+
+## 📝 License
+
+No license yet.
